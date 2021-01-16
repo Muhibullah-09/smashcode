@@ -22,13 +22,13 @@ class Navbar extends Component {
 						<ul>
 							<NavLink to="/" className={classes.Logo}><img src={logo} alt="logo" style={{ width: '180px' }} /></NavLink>
 							<li>
-								<NavLink to="/fundraising">Browse fundraising <FontAwesomeIcon icon={faChevronDown} /></NavLink>
+								<NavLink to="/fundraising">browse fundraising <FontAwesomeIcon icon={faChevronDown} /></NavLink>
 							</li>
 							<li>
-								<NavLink to="/auction">Auction house</NavLink>
+								<NavLink to="/auction">auction house</NavLink>
 							</li>
 							<li>
-								<NavLink to="#">Tokens</NavLink>
+								<NavLink to="#">tokens</NavLink>
 							</li>
 							<li>
 								<button className={classes.Button}>RAISE MONEY</button>

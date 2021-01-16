@@ -247,17 +247,16 @@ class Fundraising extends Component {
 									<div className="col-md-2">
 										<img src={piano} />
 									</div>
-									<div className="col-md-8">
+									<div className="col-md-8" style={{ textAlign: 'center' }}>
 										<h5>Piano auction title</h5>
-										<p style={{ fontSize: '14px' }}>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
-										<p style={{ fontSize: '14px', marginTop: '-18px' }}>11 biddings</p>
+										<p>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
+										<p>11 biddings</p>
 										<p>Ends in: <span>1 day</span></p>
 									</div>
 								</div>
 							</div>
-
 						</div>
-						<div className={"col-12 col-md-4 " }>
+						<div className={"col-12 col-md-4 "}>
 							<div className={"card text-center " + classes.CardBorder}>
 								<div className="row">
 									<div className="col-md-2">
