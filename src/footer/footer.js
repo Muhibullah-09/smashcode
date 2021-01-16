@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import logo from '../assets/images/logo.png';
 import classes from './footer.module.css';
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 import { faTwitter, faFacebook, faLinkedin, faTelegram } from '@fortawesome/free-brands-svg-icons';
