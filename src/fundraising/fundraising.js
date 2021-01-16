@@ -249,7 +249,7 @@ class Fundraising extends Component {
 									</div>
 									<div className="col-md-8">
 										<h5 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Piano auction title</h5>
-										<p style={{ fontSize: '14px' , paddingLeft: '17%'}}>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
+										<p style={{ fontSize: '14px' , paddingLeft: '16%'}}>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
 										<p style={{ fontSize: '14px', marginTop: '-18px',paddingLeft: '15%' }}>11 biddings</p>
 										<p style={{paddingLeft: '15%'}}>Ends in: <span>1 day</span></p>
 									</div>
