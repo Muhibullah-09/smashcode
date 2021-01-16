@@ -245,7 +245,7 @@ class Fundraising extends Component {
 							<div className={"card text-center " + classes.CardBorder}>
 								<div className="row">
 									<div className="col-md-2">
-										<img src={piano} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
+										<img src={piano} style={{ paddingTop : '2px' ,paddingLeft: '2px'}}/>
 									</div>
 									<div className="col-md-8">
 										<h5 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Piano auction title</h5>
