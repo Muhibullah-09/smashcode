@@ -245,13 +245,13 @@ class Fundraising extends Component {
 							<div className={"card text-center " + classes.CardBorder}>
 								<div className="row">
 									<div className="col-md-2">
-										<img src={piano} style={{ paddingTop : '2px' ,paddingLeft: '2px'}}/>
+										<img src={piano} />
 									</div>
 									<div className="col-md-8">
 										<h5 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Piano auction title</h5>
-										<p style={{ fontSize: '14px' , paddingLeft: '16%'}}>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
-										<p style={{ fontSize: '14px', marginTop: '-18px',paddingLeft: '15%' }}>11 biddings</p>
-										<p style={{paddingLeft: '15%'}}>Ends in: <span>1 day</span></p>
+										<p style={{ fontSize: '14px' , paddingLeft: '20%'}}>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
+										<p style={{ fontSize: '14px', marginTop: '-18px',paddingLeft: '20%' }}>11 biddings</p>
+										<p style={{paddingLeft: '20%'}}>Ends in: <span>1 day</span></p>
 									</div>
 								</div>
 							</div>
