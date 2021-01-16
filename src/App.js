@@ -21,6 +21,9 @@ class App extends Component {
               <Route path="/userProfile" component={UserProfile} />
               <Route path="/auction" component={Auction} />
             </Switch>
+            <br/>
+            <Fundraising/>
+            <UserProfile/>
           <Footer />
         </div>
       </BrowserRouter>
