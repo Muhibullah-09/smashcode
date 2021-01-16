@@ -54,7 +54,7 @@ class Home extends Component {
 				    <span className="carousel-control-next-icon" aria-hidden="true"></span>
 				    <span className="sr-only">Next</span>
 				  </a>
-				  <h1 className={classes.SliderHeading}><strong>Together we can help!</strong><br/>Just look how simple it is...</h1>
+				  <h2 className={classes.SliderHeading}><strong>Together we can help!</strong><br/>Just look how simple it is...</h2>
 				  <button className={classes.Button}>SUPP SOMEONE!</button>
 				</div>
 
