@@ -42,7 +42,7 @@ class UserProfile extends Component {
 	
 	render(){
 		return (
-			<>
+			<> 
 
 				<div className={"container-fluid " + classes.SideBar}>
 					<a href="#" className={classes.SideBarActive}><FontAwesomeIcon icon={faHome} className={classes.FaHome} /></a>
@@ -56,7 +56,6 @@ class UserProfile extends Component {
 				<div className={"container-fluid " + classes.CardDisplay}>				
 
 		    		<div className="row pb-3">
-		    			
 		    			<div className="col-12 col-md-2">
 		    				<div className={"card " + classes.CardBorder2}>
 								<h5><strong>Profile</strong></h5>

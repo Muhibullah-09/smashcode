@@ -291,35 +291,17 @@ class Fundraising extends Component {
 
 								<div class="col-md-4">
 									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>12$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>12 $</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>500$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>500 $</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>10$</strong> </p>
-									</div>
-								</div>
-							</div>
-							<div class="row" style={{ paddingTop: '20px' }}>
-
-								<div class="col-md-4">
-									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5$</strong> </p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5$</strong> </p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>10 $</strong> </p>
 									</div>
 								</div>
 							</div>
@@ -327,17 +309,35 @@ class Fundraising extends Component {
 
 								<div class="col-md-4">
 									<div class="row">
-										<img src={boy} /> <p style={{ margin: '10px' }}>Wiktor - <strong>5$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5 $</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={tom} /> <p style={{ margin: '10px' }}>Tom - <strong>100$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5 $</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={hannah} /> <p style={{ margin: '10px' }}>Hannah - <strong>5$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5 $</strong> </p>
+									</div>
+								</div>
+							</div>
+							<div class="row" style={{ paddingTop: '20px' }}>
+
+								<div class="col-md-4">
+									<div class="row">
+										<img src={boy} /> <p style={{ margin: '10px' }}>Wiktor - <strong>5 $</strong> </p>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="row">
+										<img src={tom} /> <p style={{ margin: '10px' }}>Tom - <strong>100 $</strong> </p>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="row">
+										<img src={hannah} /> <p style={{ margin: '10px' }}>Hannah - <strong>5 $</strong> </p>
 									</div>
 								</div>
 							</div>

@@ -27,12 +27,6 @@
 }
 
 
-
-
-
-
-
-
 .CardImage {
 	width: 138px;
 	height: 138px;
@@ -80,6 +74,28 @@
     /*padding: 10px 100px 10px 20px;*/
     /*min-width: 250px;*/
 }
+/* .card {
+    color: white;
+    float: left;
+    width: calc(25% - 20px);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    height: 200px;
+ }
+ .card p {
+    font-size: 18px;
+ }
+ .cardContainer:after {
+    content: "";
+    display: table;
+    clear: both;
+ } */
+ @media screen and (max-width: 600px) {
+    .CardBorder2 ,.CardTitleSpan{
+       width: 100%;
+    }
+ }
 
 .CardTitle {
 	color: #09dbc6;
