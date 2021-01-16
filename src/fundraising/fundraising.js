@@ -230,13 +230,13 @@ class Fundraising extends Component {
 							<div className={"card text-center " + classes.CardBorder}>
 								<div class="row">
 									<div className="col-md-2">
-										<img src={shoe} style={{ padding: '18px'}} />
+										<img src={shoe} />
 									</div>
 									<div className="col-md-8">
-										<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shoes auction title</h5>
-										<p style={{ fontSize: '14px' }}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highest bid: <strong>18 $ / 30 SUPP</strong></p>
-										<p style={{ marginTop: '-18px', fontSize: '14px' }}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 biddings</p>
-										<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ends in: <span></span>2 days</p>
+										<h5>Shoes auction title</h5>
+										<p style={{ fontSize: '14px' }}>Highest bid: <strong>18 $ / 30 SUPP</strong></p>
+										<p style={{ marginTop: '-18px', fontSize: '14px' }}>3 biddings</p>
+										<p>Ends in: <span></span>2 days</p>
 									</div>
 								</div>
 							</div>
@@ -245,13 +245,13 @@ class Fundraising extends Component {
 							<div className={"card text-center " + classes.CardBorder}>
 								<div className="row">
 									<div className="col-md-2">
-										<img src={piano} style={{ padding: '18px'}} />
+										<img src={piano} />
 									</div>
 									<div className="col-md-8">
-										<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Piano auction title</h5>
-										<p style={{ fontSize: '14px' }}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highest bid: <strong>188 $ / 300 SUPP</strong></p>
-										<p style={{ fontSize: '14px', marginTop: '-18px' }}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 biddings</p>
-										<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ends in: <span>1 day</span></p>
+										<h5>Piano auction title</h5>
+										<p style={{ fontSize: '14px' }}>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
+										<p style={{ fontSize: '14px', marginTop: '-18px' }}>11 biddings</p>
+										<p>Ends in: <span>1 day</span></p>
 									</div>
 								</div>
 							</div>
@@ -261,13 +261,13 @@ class Fundraising extends Component {
 							<div className={"card text-center " + classes.CardBorder}>
 								<div className="row">
 									<div className="col-md-2">
-										<img src={medal} style={{ padding: '18px'}} />
+										<img src={medal} />
 									</div>
 									<div class="col-md-8">
-										<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medal auction title</h5>
-										<p style={{ fontSize: '14px' }}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highest bid: <strong>18 $ / 30 SUPP</strong></p>
-										<p style={{ marginTop: '-18px', fontSize: '14px' }}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 biddings</p>
-										<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ends in: <span style={{ color: 'aqua' }}>16 hours</span></p>
+										<h5>Medal auction title</h5>
+										<p style={{ fontSize: '14px' }}>Highest bid: <strong>18 $ / 30 SUPP</strong></p>
+										<p style={{ marginTop: '-18px', fontSize: '14px' }}>11 biddings</p>
+										<p>Ends in: <span style={{ color: 'aqua' }}>16 hours</span></p>
 									</div>
 								</div>
 							</div>
