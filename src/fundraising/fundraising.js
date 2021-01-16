@@ -224,7 +224,7 @@ class Fundraising extends Component {
 
 
 				<div className="container-fluid" style={{ padding: '50px', backgroundColor: '#f5f5f5' }}>
-					<h3 style={{ textAlign: 'center', paddingBottom: '20px' }}> <strong>Related</strong> auctions</h3>
+					<h3 style={{ textAlign: 'center', paddingBottom: '20px' }}> <strong>Related</strong> auctions</h3><br/><br/>
 					<div className="row">
 						<div className={"col-12 col-md-4 "}>
 							<div className={"card text-center " + classes.CardBorder}>
@@ -245,7 +245,7 @@ class Fundraising extends Component {
 							<div className={"card text-center " + classes.CardBorder}>
 								<div className="row">
 									<div className="col-md-2">
-										<img src={shoe} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
+										<img src={piano} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
 									</div>
 									<div className="col-md-8">
 										<h5 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Piano auction title</h5>
@@ -261,7 +261,7 @@ class Fundraising extends Component {
 							<div className={"card text-center " + classes.CardBorder}>
 								<div className="row">
 									<div className="col-md-2">
-										<img src={shoe} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
+										<img src={medal} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
 									</div>
 									<div class="col-md-8">
 										<h5 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Medal auction title</h5>
