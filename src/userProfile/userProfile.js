@@ -54,12 +54,11 @@ class UserProfile extends Component {
 
 
 				<div className={"container-fluid " + classes.CardDisplay}>				
-
 		    		<div className="row pb-3">
 		    			<div className="col-12 col-md-2">
 		    				<div className={"card " + classes.CardBorder2}>
 								<h5><strong>Profile</strong></h5>
-								<span className={classes.CardTitleSpan}>Experienced</span>
+								<p><span>(Experienced)</span></p>
 								<p className={classes.CardText2 + " pt-3 pb-2"}><strong>ID</strong><br/>SUPP2455</p>
 								<p className={classes.CardText2 + " pt-2 pb-2"}><strong>Created</strong><br/>22 Dec 2013</p>
 								<p className={classes.ReadMore + " pt-5"}>Download Overall Report</p>
