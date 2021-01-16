@@ -224,7 +224,7 @@ class Fundraising extends Component {
 
 
 				<div className="container-fluid" style={{ padding: '50px', backgroundColor: '#f5f5f5' }}>
-					<h3 style={{ textAlign: 'center', paddingBottom: '20px' }}> <strong>Related</strong> auctions</h3><br/><br/>
+					<h3 style={{ textAlign: 'center', paddingBottom: '20px' }}> <strong>Related</strong> auctions</h3>
 					<div className="row">
 						<div className={"col-12 col-md-4 "}>
 							<div className={"card text-center " + classes.CardBorder}>
@@ -249,7 +249,7 @@ class Fundraising extends Component {
 									</div>
 									<div className="col-md-8">
 										<h5 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Piano auction title</h5>
-										<p style={{ fontSize: '14px' , paddingLeft: '20%'}}>Highest bid: <strong>188 $ / 300 SUPP</strong></p>
+										<p style={{ fontSize: '14px' , paddingLeft: '20%'}}>Highest bid: <strong>18 $ / 30 SUPP</strong></p>
 										<p style={{ fontSize: '14px', marginTop: '-18px',paddingLeft: '20%' }}>11 biddings</p>
 										<p style={{paddingLeft: '20%'}}>Ends in: <span>1 day</span></p>
 									</div>
@@ -291,35 +291,17 @@ class Fundraising extends Component {
 
 								<div class="col-md-4">
 									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous -<strong>12$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>12$</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous -<strong>500$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>500$</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous -<strong>10$</strong> </p>
-									</div>
-								</div>
-							</div>
-							<div class="row" style={{ paddingTop: '20px' }}>
-
-								<div class="col-md-4">
-									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous -<strong>5$</strong> </p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous -<strong>5$</strong> </p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="row">
-										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous -<strong>5$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>10$</strong> </p>
 									</div>
 								</div>
 							</div>
@@ -327,17 +309,35 @@ class Fundraising extends Component {
 
 								<div class="col-md-4">
 									<div class="row">
-										<img src={boy} /> <p style={{ margin: '10px' }}>Wiktor -<strong>5$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5$</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={tom} /> <p style={{ margin: '10px' }}>Tom -<strong>100$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5$</strong> </p>
 									</div>
 								</div>
 								<div class="col-md-4">
 									<div class="row">
-										<img src={hannah} /> <p style={{ margin: '10px' }}>Hannah -<strong>5$</strong> </p>
+										<img src={anonymous} /> <p style={{ margin: '10px' }}>Anonymous - <strong>5$</strong> </p>
+									</div>
+								</div>
+							</div>
+							<div class="row" style={{ paddingTop: '20px' }}>
+
+								<div class="col-md-4">
+									<div class="row">
+										<img src={boy} /> <p style={{ margin: '10px' }}>Wiktor - <strong>5$</strong> </p>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="row">
+										<img src={tom} /> <p style={{ margin: '10px' }}>Tom - <strong>100$</strong> </p>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="row">
+										<img src={hannah} /> <p style={{ margin: '10px' }}>Hannah - <strong>5$</strong> </p>
 									</div>
 								</div>
 							</div>
