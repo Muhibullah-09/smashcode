@@ -233,7 +233,7 @@ class Fundraising extends Component {
 										<img src={shoe} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
 									</div>
 									<div className="col-md-8">
-										<h3 style={{paddingLeft: '20%', fontWeight: 'bold'}}>Shoes auction title</h3>
+										<h6 style={{paddingLeft: '20%', fontWeight: 'bold'}}>Shoes auction title</h6>
 										<p style={{ fontSize: '14px' , paddingLeft: '20%'}}>Highest bid: <strong>18 $ / 30 SUPP</strong></p>
 										<p style={{ fontSize: '14px', marginTop: '-18px',}}>3 biddings</p>
 										<p style={{fontSize: '14px',}}>Ends in: <span></span>2 days</p>
@@ -248,7 +248,7 @@ class Fundraising extends Component {
 										<img src={piano} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
 									</div>
 									<div className="col-md-8">
-										<h3 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Piano auction title</h3>
+										<h6 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Piano auction title</h6>
 										<p style={{ fontSize: '14px' , paddingLeft: '20%'}}>Highest bid: <strong>18 $ / 30 SUPP</strong></p>
 										<p style={{ fontSize: '14px', marginTop: '-18px',}}>11 biddings</p>
 										<p style={{fontSize: '14px',}}>Ends in: <span>1 day</span></p>
@@ -264,7 +264,7 @@ class Fundraising extends Component {
 										<img src={medal} style={{ paddingTop : '5px' ,paddingLeft: '5px'}}/>
 									</div>
 									<div class="col-md-8">
-										<h3 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Medal auction title</h3>
+										<h6 style={{paddingLeft: '20%' , fontWeight: 'bold'}}>Medal auction title</h6>
 										<p style={{ fontSize: '14px' , paddingLeft: '20%'}}>Highest bid: <strong>18 $ / 30 SUPP</strong></p>
 										<p style={{ fontSize: '14px', marginTop: '-18px',}}>11 biddings</p>
 										<p style={{fontSize: '14px',paddingLeft: '20%'}}>Ends in: <span style={{ color: 'aqua' }}>16 hours</span></p>
